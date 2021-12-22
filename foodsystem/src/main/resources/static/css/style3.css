@@ -1,0 +1,36 @@
+<style>
+body{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3U0MmO0udhImTr2KsDyWq0xd_leYS3WtojA&usqp=CAU,jpg");
+background-repeat:no-repeat;
+background-position:top;
+background-size:1280px 750px;
+}
+ul {
+  list-style-type: none;
+  text-align:center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ background-color:#FFD700;
+}
+
+li {
+  float:center;
+  display:inline-block;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  font-size:20px;
+}
+.center{display: flex;
+	justify-content: center;
+	align-items: center;
+font-size:25px;
+
+}
+</style>

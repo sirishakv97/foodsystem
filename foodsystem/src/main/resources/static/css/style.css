@@ -1,0 +1,39 @@
+<style>
+<head>
+body
+{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE_ioVyhMQ9FY4SOY2azRi_pHHuRQqzcblQ&usqp=CAU.jpg");
+background-repeat:no-repeat;
+background-size:1300px 650px; 
+}
+.first{font-size:20px;text-align:center;}
+.head{font-size:50px;text-align:center;color:#696969;}
+.center{display: flex;
+	justify-content: center;
+	align-items: center;
+}
+ul {
+  list-style-type: none;
+  text-align:center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ background-color:#FFD700;
+}
+
+li {
+  float:center;
+  display:inline-block;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+  font-size:20px;
+}
+
+</style>
+</head>
